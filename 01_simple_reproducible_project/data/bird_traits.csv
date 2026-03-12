@@ -1,0 +1,13 @@
+species,wing_length_mm,body_mass_g,habitat
+sparrow,72,24,urban
+sparrow,75,26,urban
+sparrow,70,23,urban
+warbler,65,12,forest
+warbler,68,13,forest
+warbler,66,11,forest
+hawk,320,900,forest
+hawk,340,980,forest
+hawk,330,950,forest
+duck,280,1100,wetland
+duck,300,1200,wetland
+duck,290,1150,wetland
